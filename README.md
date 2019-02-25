@@ -11,3 +11,5 @@ Apple开发的app里面有很多优秀的动画，像Safari的弹窗动画、App
 ## 动画演示
 ![示例动画](https://cdn-images-1.medium.com/max/1600/1*UED6Xo7u14SNqEsTBFXBMA.gif)
 
+## 后记
+具体实现方法可以参考[制作类似Apple Music的弹窗动画](https://medium.com/@h76joker/制作类似apple-music的弹窗动画-46950cbf2990)
